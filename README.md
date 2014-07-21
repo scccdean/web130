@@ -1,6 +1,8 @@
 web130
 ======
 
+# This is a fork of the class repo
+
 ## Syllabus and assignments
 The syllabus is on [Canvas] (http://tiny.cc/web130). We will be using [Canvas] (http://tiny.cc/web130) for the for grading and assignments.
 
@@ -22,4 +24,5 @@ We will use [Nitrous.io] (https://www.nitrous.io/join/qfBk_biWT4g) for our devel
 6. run `git push origin master`
 7. enter github username and password
 8. navigate to github repo to verify 
+
 
